@@ -1,0 +1,8 @@
+Day,Start,End,Course Code,Course Name,Lecturer,Group,Room
+MONDAY,08:00,10:00,CS101,Programming,Dr Aina,G1,Computer Lab 1
+MONDAY,10:00,12:00,CS102,Databases,Mr Lee,G2,Computer Lab 1
+TUESDAY,08:00,10:00,CS101,Programming,Dr Aina,G2,Computer Lab 1
+TUESDAY,10:00,12:00,CS102,Databases,Mr Lee,G1,Computer Lab 1
+WEDNESDAY,08:00,10:00,CS103,Networking,Ms Devi,G1,Computer Lab 1
+THURSDAY,08:00,10:00,CS104,Discrete Maths,Ms Devi,G2,Room 2
+THURSDAY,08:00,12:00,DIT4013,Information Tech,Dr Aina,G1,Computer Lab 1
